@@ -1,0 +1,17 @@
+.step-card-container{
+    margin-right: 20px;
+    color: #2f3237;
+}
+.step-card-number{    
+    font-size: 35px;
+    border-bottom: 2px solid #47E4C2;
+    width: 40px;
+    padding-bottom: 5px;
+    margin: auto;
+
+}
+.step-card-title{
+    margin: 10px auto;
+    text-transform: uppercase;
+    font-weight: bold;
+}

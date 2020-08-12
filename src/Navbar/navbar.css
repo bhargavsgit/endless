@@ -1,0 +1,10 @@
+.logo{
+    background-color: #222222;
+    display: flex;
+}
+.logo-icon{
+    height: 13px;
+    filter: invert(76%) sepia(93%) saturate(304%) hue-rotate(100deg) brightness(90%) contrast(98%);
+    margin-left: 15%;
+    padding: 10px 0;
+}

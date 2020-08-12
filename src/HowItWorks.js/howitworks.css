@@ -1,0 +1,14 @@
+h2{
+    color: #2f3237;
+    margin-bottom: 10px;
+}
+.step-cards{
+    display: flex;
+    justify-content: center;
+    margin: 10px 15%;
+}
+@media screen and (max-width: 600px) {
+    .step-cards {
+        flex-flow: column;
+    }
+  }

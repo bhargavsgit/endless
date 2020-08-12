@@ -1,0 +1,44 @@
+.whats-new-container{
+    height: 550px;
+    background-image: url('../assets/photo-couch.jpg');
+    background-size: cover;
+    color: #ffffff;
+    display: flex;
+    align-items: flex-end;
+}
+
+.whats-new-block{
+    width: 450px;
+    text-align: left;
+    margin-left: 15%;
+    margin-bottom: 50px;
+    filter: drop-shadow(0px 1px 20px #000000);
+}
+.whats-new-title{
+    margin-bottom: 15px;
+}
+
+.whats-new-subtitle-block{
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+.whats-new-text{
+    margin-bottom: 15px;
+    font-size: 12px;
+    width: 300px;
+}
+
+.btn-primary{
+    background: #47E4C2;
+    border: 1px solid;
+    padding: 5px 20px;
+    border-radius: 14px;
+    color: #2f3237;
+    font-weight: 700;
+    opacity: 0.9;
+    transition: 0.3s;
+    outline: none;
+}
+
+.btn-primary:hover, .btn-primary:focus {opacity: 1}
